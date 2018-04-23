@@ -1,2 +1,5 @@
-# serverpilot_app_create
-serverpilot app create via shell api
+# serverpilot app create
+app creation via shell api
+
+## ToDo
+- [ ] copy db details to the app directory (.env/config.php)
